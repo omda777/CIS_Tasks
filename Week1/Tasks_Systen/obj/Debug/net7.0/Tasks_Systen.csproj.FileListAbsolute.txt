@@ -1,0 +1,14 @@
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\bin\Debug\net7.0\Tasks_Systen.exe
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\bin\Debug\net7.0\Tasks_Systen.deps.json
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\bin\Debug\net7.0\Tasks_Systen.runtimeconfig.json
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\bin\Debug\net7.0\Tasks_Systen.dll
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\bin\Debug\net7.0\Tasks_Systen.pdb
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\obj\Debug\net7.0\Tasks_Systen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\obj\Debug\net7.0\Tasks_Systen.AssemblyInfoInputs.cache
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\obj\Debug\net7.0\Tasks_Systen.AssemblyInfo.cs
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\obj\Debug\net7.0\Tasks_Systen.csproj.CoreCompileInputs.cache
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\obj\Debug\net7.0\Tasks_Systen.dll
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\obj\Debug\net7.0\refint\Tasks_Systen.dll
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\obj\Debug\net7.0\Tasks_Systen.pdb
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\obj\Debug\net7.0\Tasks_Systen.genruntimeconfig.cache
+D:\Web Development\C#\my iti mans 2025\c# tasks\Week1\Tasks_Systen\obj\Debug\net7.0\ref\Tasks_Systen.dll
