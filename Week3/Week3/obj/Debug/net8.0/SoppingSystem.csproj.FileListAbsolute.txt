@@ -1,0 +1,14 @@
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\bin\Debug\net8.0\SoppingSystem.exe
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\bin\Debug\net8.0\SoppingSystem.deps.json
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\bin\Debug\net8.0\SoppingSystem.runtimeconfig.json
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\bin\Debug\net8.0\SoppingSystem.dll
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\bin\Debug\net8.0\SoppingSystem.pdb
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\obj\Debug\net8.0\SoppingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\obj\Debug\net8.0\SoppingSystem.AssemblyInfoInputs.cache
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\obj\Debug\net8.0\SoppingSystem.AssemblyInfo.cs
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\obj\Debug\net8.0\SoppingSystem.csproj.CoreCompileInputs.cache
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\obj\Debug\net8.0\SoppingSystem.dll
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\obj\Debug\net8.0\refint\SoppingSystem.dll
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\obj\Debug\net8.0\SoppingSystem.pdb
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\obj\Debug\net8.0\SoppingSystem.genruntimeconfig.cache
+D:\Career\Web Development\CIS_MU\CIS_TASKS\C#\ShoppingSystem\Week3\obj\Debug\net8.0\ref\SoppingSystem.dll
